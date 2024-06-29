@@ -1,0 +1,78 @@
+Name,Lat,Lon,Size,Stored,Developer,Type
+Umlung,33.8687719,77.4637938,3.2kW,12.141kw,LREDA,Solar
+Digar,34.294001,77.8064628,10kW,48.999kw,LDEG,Solar
+Surajpur,23.212528,82.8667246,32kW,41.881kw,Husk Power,Biomass
+Dibling,33.9625778,76.6457585,24kW,8.238kw,LREDA,Solar
+Lingshed,33.9038386,76.8246514,73.6kW,9.738kw,LREDA,Solar
+Nagari,13.31217355,79.59793429354428,5kw,14.447kw,CREDA,Solar
+Yulchung,33.9269911,76.9105516,24kW,81.73kw,LREDA,Solar
+Dhanhar,26.874202,84.7895786,2kw,34.718kw,CREDA,Solar
+Sumda do,34.104438,77.2136961,230kw,48.867kw,LREDA,Micro Hydro
+Chilling,34.0385204,77.2028513,20kw,1.834kw,LREDA,Micro Hydro
+Rawan,23.736394,77.72129183993908,4kw,59.185kw,CREDA,Solar
+markha,33.8859985,77.4233499,27.2kw,81.93kw,lreda,solar
+Kansara,21.7508249,72.1559857,4kw,52.922kw,CREDA,Solar
+digar,34.294001,77.8064628,10kw,64.332kw,ldeg,Micro Hydro
+relay,13.2000969,77.7102741,12.8kw,71.514kw,lreda,solar
+phobrang,34.057223,78.4419695,200kw,60.754kw,lreda,Micro Hydro
+lukung,33.9951164,78.4140257,13.4kw,4.091kw,lreda,solar
+mann,31.2158299,74.7215659,17.2kw,85.05kw,lreda,solar
+merak,33.8002441,78.5905698,46.4kw,94.676kw,lreda,solar
+Kandanar,10.6127291,76.68886623492108,4kw,40.15kw,CREDA,solar
+parma,24.37334735,82.32388853056413,22.4kw,98.557kw,lreda,solar
+chushul,33.6009053,78.6440678,131.2kw,53.532kw,lreda,solar
+tsaga,33.3298562,78.8538311,38.8kw,61.715kw,lreda,solar
+teri-phu,33.5639935,78.0369025,5kw,61.302kw,ldeg,Micro Hydro
+Shivrajpur,23.5858821,80.31583501118162,32kw,27.629kw,Husk Power,Biomass
+Narendrapur,22.4541674,88.4183764,32kw,67.386kw,Husk Power,Biomass
+Bagen,24.9653621,84.1515398,32kw,11.844kw,Husk Power,Biomass
+Arrah,25.62345725,84.59683868653386,32kw,79.998kw,Husk Power,Biomass
+nyoma,33.2054809,78.6496578,132kw,66.975kw,lreda,solar
+muth,33.2015519,78.6950008,80kw,83.746kw,lreda,solar
+loma,33.1718009,78.8281773,16.64,54.11kw,lreda,solar
+rongo,27.0385628,88.8358784,70.4kw,41.464kw,lreda,solar
+Chumur,32.6693148,78.5954265,21.76kw,3.222kw,lreda,solar
+koyul,32.8798789,79.1959427,96kw,56.033kw,lreda,solar
+Patuk,28.0084129,93.4938419,10kw,35.431kw,APEDA,Micro Hydro
+Gomkang,27.56058,91.84708,25kw,65.384kw,APEDA,Micro Hydro
+Surve,14.6332302,74.3126607,3kw,85.242kw,CREDA,Solar
+chumur,32.6693148,78.5954265,21.76kw,96.174kw,lreda,solar
+surag,29.9865929,79.6620396,50kw,43.318kw,ureda,Micro Hydro
+Ghor,22.5089034,74.81792333299495,20kw,62.897kw,SREDA,Micro Hydro
+Baharbari,26.1204756,87.6533156,50kw,37.012kw,Desi Power,Biomass
+badiyakot,30.111725,79.844156,100kw,88.626kw,ureda,Micro Hydro
+teekh,30.0870206,79.8843483,100kw,57.986kw,ureda,Micro Hydro
+karmi,23.118644,74.3472505,50w,18.5kw,ureda,Micro Hydro
+Pokhara,24.296899,82.49696861630983,32kw,5.509kw,Husk Power,Biomass
+jhuni,30.1113088,79.9896914,100kw,86.793kw,ureda,Micro Hydro
+Minapur,26.29119595,85.31315166431617,32kw,14.434kw,Husk Power,Biomass
+namik,30.0988419,80.0898337,100kw,61.616kw,ureda,Micro Hydro
+gogina,30.0757784,80.0766901,100kw,11.794kw,ureda,Micro Hydro
+tomik,30.0690775,80.360085,500kw,97.92kw,ureda,Micro Hydro
+Kalyanpur,25.9797464,85.7963903829216,32kw,2.861kw,Husk Power,Biomass
+Mudpar,21.7389034,82.6508801,4kw,39.499kw,CREDA,Solar
+tarsali,30.5857792,79.0207188,100kw,15.059kw,ureda,Micro Hydro
+bura,24.738048149999997,80.96906725825289,200kw,95.056kw,ureda,Micro Hydro
+Hardi,24.092067800000002,81.9234057576312,5kw,43.55kw,CREDA,Solar
+Chipari,20.5636085,80.3411293,3kw,83.828kw,CREDA,Solar
+Kathali,23.727728550000002,81.0808062325224,3kw,65.428kw,CREDA,Solar
+bara,25.19567335,81.6535430860293,0.72kw,45.951kw,Mere Gao Power,solar
+Putsil,18.7033414,82.991721,13kw,47.642kw,UREDA,Micro Hydro
+Rampura,25.9352897,78.23520369355703,8.75kw,58.056kw,Bergen,solar
+Darewadi,18.2586564,76.9712073,10kw,47.738kw,Gram Oorja,solar
+Viral,18.6098989,77.1342265,5.04kw,47.428kw,Gram Oorja,Solar
+kalasa,13.2322235,75.3582366,20kw,27.076kw,n/a,Micro Hydro
+puttakota,17.2196119,80.2002102,5kw,48.293kw,premier solar,Solar
+kannavaram,17.8777392,78.1934292,9kw,64.783kw,premier solar,solar
+nallabilli,17.9798264,83.0302923,9kw,40.685kw,premier solar,Solar
+annavaram,17.2833149,82.4080348,9kw,65.835kw,premier solar,Solar
+garimanda,17.7634115,82.1990096,13kw,74.717kw,premier solar,Solar
+kindangi,18.6521683,83.8350027,6kw,92.4kw,premier solar,solar
+Daudpur,23.020013749999997,77.61942129525919,55kw,43.474kw,wbreda,solar
+gosaba,22.1868288,88.85911687102393,500kw,11.031kw,wbreda,wind-diesel
+rakhalpur,21.7532971,88.4390383,110kw,0.132kw,wbreda,solar
+indrapur,21.85765225,75.13531136978133,110kw,47.954kw,wbreda,solar
+baliara,21.6269903,88.2122023,110kw,10.771kw,wbreda,solar
+kamalpur,26.3349031,91.71447008208972,25kw,92.34kw,wbreda,solar
+mandirtala,21.8140806,88.112073,25kw,50.83kw,wbreda,solar
+gangasagar,24.2112344,81.1194221578225,200kw,41.393kw,wbreda,solar
